@@ -17,10 +17,11 @@
 <a href="https://www.linkedin.com/in/bhaktimejari" target="blank">
   <img align="left" alt="Bhakti's LinkedIn" width="47vw" src="linkedIn.png" />
 </a>
-
+<br/>
 <h3 align="left"> Technology and Tools :  </h3>
 
   <img align="left" width="47vw" src="python.png" />
+  <img align="left" width="47vw" src="jenkins.png" />
   <img align="left" width="47vw" src="js.png" />
   <img align="left" width="47vw" src="ts.png" />
   <img align="left" width="47vw" src="node.png" />
